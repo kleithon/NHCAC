@@ -26,7 +26,7 @@ const Hero: React.FC = () => {
               <div className="absolute -inset-4 border-2 border-emerald-100 rounded-full animate-pulse"></div>
               {/* Nazım Hikmet Portrait */}
               <img 
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Nazim_Hikmet_Ran.jpg/800px-Nazim_Hikmet_Ran.jpg" 
+                src="https://www.imdb.com/name/nm0383740/mediaviewer/rm3616946176/?ref_=nm_ov_ph" 
                 alt="Portrait of Nazım Hikmet"
                 className="relative z-10 w-64 h-64 md:w-80 md:h-80 object-cover rounded-full shadow-2xl grayscale hover:grayscale-0 transition-all duration-700 border-4 border-white bg-slate-200"
               />
